@@ -1,3 +1,8 @@
+# Read Me First
+The following was discovered as part of building this project:
+
+* The original package name 'za.co.mainline.spring-data-jpa' is invalid and this project uses 'za.co.mainline.spring_data_jpa' instead.
+
 # Getting Started
 
 ### Reference Documentation
@@ -13,3 +18,4 @@ The following guides illustrate how to use some features concretely:
 
 * [Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
 * [Accessing data with MySQL](https://spring.io/guides/gs/accessing-data-mysql/)
+
